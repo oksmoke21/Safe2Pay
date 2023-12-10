@@ -1,6 +1,7 @@
 # Safe2Pay
 
 ### 🌐 [Deployment Link](https://safe2pay.vercel.app/)
+![Longstrip](https://github.com/oksmoke21/Safe2Pay/assets/83280958/b6a564e4-95e4-4a98-8711-72471f1b0243)
 
 
 ## 📜 Introduction
