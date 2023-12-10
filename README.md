@@ -33,3 +33,13 @@ git clone https://github.com/oksmoke21/Safe2Pay.git
 cd client
 npm install
 npm start
+
+```
+
+## Output Video
+
+## Team Contributor
+- [Ayush Rajan](https://github.com/oksmoke21)
+- [Darshan Rajpurohit](https://github.com/Darshan1506)
+- [Pritipriya Singh](https://github.com/pritipsingh)
+
