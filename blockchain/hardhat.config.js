@@ -19,5 +19,9 @@ module.exports = {
       url: `https://goerli.infura.io/v3/${apiPublicKeyEthereum}`,
       accounts: [privateKey]
     },
+    polygon_zkEVM: {
+      url: `https://rpc.public.zkevm-test.net`,
+      accounts: [privateKey]
+    }
   }
 };
